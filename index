@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+
+<html>
+<title> Polaris Website </title>
+  <head>
+  </head>
+  <body>
+  
+  <style> 
+  body {
+  background-color: lightgreen;
+  }
+  </style>
+    <header> Welcome to the Polaris Website! </header>
+       There isn't much to see right now, as we are still developing this. Check our informations center for more information. <br> <a href="https://docs.google.com/document/d/1_o77Kd_Vw8RynZVoRTepsWn-c5Ze9n1Qn50NKLf5Oxk/edit">Informations Center</a><br>
+
+    <p> Ranks for Polaris: 
+
+      <br>
+      -------------------- SHR (Super High Rank) --------------------
+  </br>
+    
+      <br>Alex Flax (Chief Executive Officer</br>
+      <br>Pratik Jonnavithula (Chief Operations Officer)</br>
+      <br>Weston Allen (Chief Technology Officer)</br>
+      <br>Raven Hayes (Head Administrator) (Lead Developer)</br>
+    <br>
+      -------------------- HR (High Rank) --------------------
+  </br>
+     <br> (Looks like this section is empty right now.) </br>
+<br>
+      -------------------- MR (Middle Rank) --------------------
+  </br>
+      <br> Owen Walker (Developer) (Story Writing Division) </br>
+    <br> Ben Stockard (Developer) </br>
+    <br> Ari Goode (Developer) (Story Writing Division) </br>
+	<br> Lennox Bottoms (Developer) </br>
+	<br> Kaila Alexander (Trainee Developer) (Story Writing Division) </br>
+<br>
+      -------------------- LR (Low Ranks) --------------------
+
+      <br> (Looks like this section is empty right now.) </br>
+  </br>
+
+<br>
+Rules for Polaris:
+
+ <br> Please respect all coders and administrators. </br>
+<br> Do not edit other’s code unless it is unusable or takes up space. </br>
+<br> It is recommended to get projects done in the time frame requested. </br>
+<br> Make sure when you get new code, highlight all the code in this document and then paste your code. </br>
+<br> Please do not add code that could potentially lag the website. </br>
+
+</br>
+
+<button onclick=location.reload()>Exit the website</button>
+
+
+
+<script>
+
+// The back end code
+
+var alertNotFinishedMsg = 'This website is currently not finished. Dev info: Version 5.0.9';
+
+alert(alertNotFinishedMsg)
+
+
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    </p>
+  </body>
+</html>
+
+
+
